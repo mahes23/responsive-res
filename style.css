@@ -510,6 +510,7 @@ button:hover{
     .head a{
         margin-left: 3%;
         font-size: 19px;
+        width:300px;
     }
     .search {
         margin-left: 2%;
